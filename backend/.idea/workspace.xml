@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="299ee47a-1d74-471c-b360-bbd5c8cbea05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test-dev-junior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/Perso.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/perso.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1qCOzOljGrbp4QhiYlm2rFDhYYU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Tolotra\AppData\Local\JetBrains\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="299ee47a-1d74-471c-b360-bbd5c8cbea05" name="Default Changelist" comment="" />
+      <created>1616580367171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616580367171</updated>
+      <workItem from="1616580369029" duration="9827000" />
+      <workItem from="1616600382056" duration="16535000" />
+      <workItem from="1616651638952" duration="18753000" />
+      <workItem from="1616671714271" duration="1333000" />
+      <workItem from="1616740631280" duration="1876000" />
+      <workItem from="1617706932406" duration="5253000" />
+      <workItem from="1617724318100" duration="2883000" />
+      <workItem from="1617779628733" duration="13621000" />
+      <workItem from="1617806485829" duration="13342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616582661759">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="274" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1616582661759" />
+    <state x="804" y="159" key="FileChooserDialogImpl" timestamp="1617806704585">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="804" y="159" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1617806704585" />
+    <state width="661" height="181" key="GridCell.Tab.0.bottom" timestamp="1616581207614">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="181" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1616581207614" />
+    <state width="661" height="181" key="GridCell.Tab.0.center" timestamp="1616581207613">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="181" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1616581207613" />
+    <state width="661" height="181" key="GridCell.Tab.0.left" timestamp="1616581207613">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="181" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1616581207613" />
+    <state width="661" height="181" key="GridCell.Tab.0.right" timestamp="1616581207613">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="181" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1616581207613" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1616607164406">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1616607164406" />
+  </component>
+</project>

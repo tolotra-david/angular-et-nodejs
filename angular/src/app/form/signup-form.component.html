@@ -1,0 +1,71 @@
+<form [formGroup]="form" class="w-50 m-auto border-light">
+  <!-- ALERT -->
+  <div *ngIf="isUserNotFound" class="form-group">
+    <p class="alert alert-danger">User not found. Please create account</p>
+  </div>
+  <div *ngIf="isValidUser" class="form-group">
+    <p class="alert alert-danger">Please choose another name. It's taken</p>
+  </div>
+  <!-- INPUT -->
+  <div class="form-group">
+    <mat-form-field [appearance]="inputAppearance" class="full-width">
+      <input
+        matInput
+        required
+        formControlName="username"
+        id="username"
+        type="text"
+        placeholder="Username">
+    </mat-form-field>
+    <div *ngIf="username.touched && username.invalid"
+         class="alert alert-danger">Username is required</div>
+  </div>
+  <div class="form-group">
+    <mat-form-field [appearance]="inputAppearance" class="full-width">
+      <input
+        matInput
+        required
+        formControlName="password"
+        id="password"
+        [type]="inputType"
+        placeholder="Password">
+    </mat-form-field>
+    <div *ngIf="password.touched && password.invalid"
+         class="alert alert-danger">Password is required</div>
+  </div>
+  <!-- BUTTON -->
+  <div *ngIf="isLogin" class="isLogin">
+    <div class="form-group">
+      <button class="btn btn-primary form-control"
+              (click)="onSignIn()"
+              [disabled]="form.invalid">Connection</button>
+    </div>
+    <hr class="w-75">
+    <div class="form-group">
+      <button class="btn btn-success form-control"
+              (click)="create()"
+              [disabled]="form.invalid">Create account</button>
+    </div>
+  </div>
+  <div *ngIf="isEdit" class="edit">
+    <div class="form-group">
+      <button class="btn btn-outline-primary form-control"
+              [disabled]="form.invalid" (click)="save()">Save</button>
+    </div>
+    <div class="form-group">
+      <button class="btn btn-outline-secondary form-control"
+              [disabled]="form.invalid" (click)="cancel()">Cancel</button>
+    </div>
+  </div>
+  <div *ngIf="isAdd" class="add">
+    <div class="form-group">
+      <button class="btn btn-outline-primary form-control"
+              (click)="addUser()"
+              [disabled]="form.invalid">Create account</button>
+    </div>
+    <div class="form-group">
+      <button class="btn btn-outline-info form-control"
+              (click)="cancel()">Cancel</button>
+    </div>
+  </div>
+</form>
